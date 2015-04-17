@@ -5,7 +5,7 @@
 //
 
 import UIKit
-import Parse //parseをしっかりとインポートする
+import Parse //parseをしっかりとインポート
 
 class ViewController: UIViewController {
     @IBOutlet var imageView:UIImageView!
